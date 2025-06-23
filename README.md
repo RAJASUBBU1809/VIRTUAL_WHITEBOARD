@@ -94,12 +94,6 @@ Contributions are welcome! Please open an issue or submit a pull request for sug
 
 ---
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgements
 
 - Inspired by collaborative whiteboard solutions like [Excalidraw] and other open-source projects.
